@@ -14,10 +14,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 ### :man_technologist: About Me :
 - :zap: I’m currently working on Social Media Holding
 - :telescope: I am Android developer
@@ -38,6 +34,8 @@
 
 ### :fire: My Stats :
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kroshkaenot1&theme=great_gatsby)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kroshkaenot1&theme=great_gatsby)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kroshkaenot1&theme=great_gatsby)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kroshkaenot1&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kroshkaenot1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
