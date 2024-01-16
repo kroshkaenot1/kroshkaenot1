@@ -15,7 +15,6 @@
 ---
 
 ### :man_technologist: About Me :
-- :zap: I’m currently working on Social Media Holding
 - :telescope: I am Android developer
 
 ---
